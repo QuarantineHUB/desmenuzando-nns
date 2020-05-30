@@ -1,13 +1,13 @@
 # Desmenuzando a las neuronas artificiales
 
-![GitHub last commit](https://img.shields.io/github/last-commit/QuarantineHUB/desmenuzando-nns?style=for-the-badge) <br>
-![GitHub repo size](https://img.shields.io/github/repo-size/QuarantineHUB/desmenuzando-nns?style=for-the-badge) <br>
-![License](https://img.shields.io/github/license/RodolfoFerro/PyConCo20?style=for-the-badge) <br>
-[![Twitter](https://img.shields.io/twitter/follow/FerroRodolfo?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/FerroRodolfo/) <br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/rodolfoferro/) <br>
+![GitHub last commit](https://img.shields.io/github/last-commit/QuarantineHUB/desmenuzando-nns?style=for-the-badge) 
+![GitHub repo size](https://img.shields.io/github/repo-size/QuarantineHUB/desmenuzando-nns?style=for-the-badge) 
+![License](https://img.shields.io/github/license/RodolfoFerro/PyConCo20?style=for-the-badge) 
+[![Twitter](https://img.shields.io/twitter/follow/FerroRodolfo?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/FerroRodolfo/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/rodolfoferro/) 
 - Presentación: [![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato)](https://docs.google.com/presentation/d/e/2PACX-1vSTSwM0Mvf2Hr4CZzc__z7_Muaij3cHzpsq6B8qnM3FLlnUrpwk6NDN68LYRQt8BLjLqni1O8_3WXk8/pub?start=false&loop=false&delayms=3000)
-- Cuaderno de trabajo: [![Sin resolver](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuarantineHUB/desmenuzando-nns/blob/master/notebooks/Desmenuzando a las neuronas artificiales (Sin resolver).ipynb)
-- Cuaderno resuelto: [![Resuelto](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuarantineHUB/desmenuzando-nns/blob/master/notebooks/Desmenuzando a las neuronas artificiales (Resuelto).ipynb)
+- Cuaderno de trabajo: [![Sin resolver](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuarantineHUB/desmenuzando-nns/blob/master/notebooks/Desmenuzando%20a%20las%20neuronas%20artificiales%20(Sin%20resolver).ipynb)
+- Cuaderno resuelto: [![Resuelto](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuarantineHUB/desmenuzando-nns/blob/master/notebooks/Desmenuzando%20a%20las%20neuronas%20artificiales%20(Resuelto).ipynb)
 
 Este repositorio de GitHub contiene el material de la ponencia "Desmenuzando a las neuronas artificiales" por Rodolfo Ferro, para el [Programmathon 2020](https://quarantinehub.github.io/).
 
