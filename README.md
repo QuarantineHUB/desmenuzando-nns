@@ -1,5 +1,12 @@
 # Repositorio template para las ponencias del Programmathon 2020
 
+![GitHub last commit](https://img.shields.io/github/last-commit/QuarantineHUB/desmenuzando-nns?style=for-the-badge) <br>
+![GitHub repo size](https://img.shields.io/github/repo-size/QuarantineHUB/desmenuzando-nns?style=for-the-badge) <br>
+![License](https://img.shields.io/github/license/RodolfoFerro/PyConCo20?style=for-the-badge) <br>
+[![Twitter](https://img.shields.io/twitter/follow/FerroRodolfo?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/FerroRodolfo/) <br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/rodolfoferro/) <br>
+[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vSTSwM0Mvf2Hr4CZzc__z7_Muaij3cHzpsq6B8qnM3FLlnUrpwk6NDN68LYRQt8BLjLqni1O8_3WXk8/pub?start=false&loop=false&delayms=3000)
+
 Este repositorio de GitHub es una plantilla que contiene material (ejemplo) para un workshop dentro del [Programmathon 2020](https://quarantinehub.github.io/). Para utilizarlo en tu ponencia y subir tu material, ve a la siguiente sección. 
 
 #### ¿Nunca has usado GitHub, Markdown o Jupyter/Google Colab?
